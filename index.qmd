@@ -1,0 +1,35 @@
+---
+title: "Ericka F. Salas-Garcia"
+image: headshot.jpeg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/erickasalas/
+    - text: GitHub
+      href: https://github.com/erickasls/
+    - text: Personal Email
+      href: erickafs00@gmail.com
+    - text: Work Email
+      href: ericka.salas.garcia@oracle.com
+---
+
+Ericka Salas-Garcia is a first-generation, Mexican-American, and a graduate from UT Austin. She started her Freshmen year at UT with an interest in Healthcare by pursuing a degree in Biology with the goal of pursuing Medical School. She became a part of the FRI (Freshmen Research Initiative) program at UT Austin, and joined the Big Data in Biology research group. It became a turning point for her after her experience as a Bioinformatics Undergraduate Researcher with Dell Medical School - she instantly switched to pursue technology. She landed a Data Engineer internship the Summer of 2021. Then post-grad she decided to give Solution Engineering a try at Oracle. When not innovating on depths of technical solutions, Ericka enjoys spending time with Family, Friends and playing with her dog Milo.
+
+## Education
+
+The University of Texas at Austin - Austin, Texas
+B.S in Computational Biology \| August 2018 - May 2022
+
+South Texas Academy for Medical Professions - Olmito, Texas
+Pharmacy Technician + HS Diploma \| August 2014 - May 2018
+
+## Experience
+
+Technical Solution Engineer \| Oracle \| July 2022 - present
+
+Data Engineer Intern \| USAA \| May 2021 - August 2021
+
+Bioinformatics Undergraduate Researcher \| UT Dell Medical School \| August 2019 - August 2021

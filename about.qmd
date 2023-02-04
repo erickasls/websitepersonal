@@ -1,0 +1,19 @@
+---
+title: "About"
+---
+
+Ericka Salas-Garcia is a Solution Engineer at Oracle. When not innovating on depths of technical solutions, Ericka enjoys spending time with Family, Friends and playing with her dog Milo.
+
+## Education
+
+The University of Texas at Austin \| Austin, Texas
+B.S in Computational Biology \| August 2018 - May 2022
+
+South Texas Academy for Medical Professions \| Olmito, Texas
+Pharmacy Technician + HS Diploma \| August 2014 - May 2018
+
+## Experience
+
+Technical Solution Engineer \| Oracle \| July 2022 - present
+
+Bioinformatics Undergraduate Researcher \| UT Dell Medical School \| August 2019 - August 2021
